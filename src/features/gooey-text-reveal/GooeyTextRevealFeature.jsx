@@ -3,11 +3,13 @@ import { ArrowDown } from 'lucide-react'
 import { GooeyTextReveal } from '@/components/ui/gooey-text-reveal'
 import './gooey-text-reveal.css'
 
+const asset = (file) => `${import.meta.env.BASE_URL}gooey-text-reveal/${file}`
+
 const paintings = [
-  { src: '/gooey-text-reveal/img1.jpg', alt: 'A classical painting lit against a deep shadow' },
-  { src: '/gooey-text-reveal/img2.jpg', alt: 'A dramatic old master painting' },
-  { src: '/gooey-text-reveal/img3.jpg', alt: 'A historic painting rendered in warm light' },
-  { src: '/gooey-text-reveal/img4.jpg', alt: 'A classical figure emerging from darkness' },
+  { src: asset('img1.jpg'), alt: 'A classical painting lit against a deep shadow' },
+  { src: asset('img2.jpg'), alt: 'A dramatic old master painting' },
+  { src: asset('img3.jpg'), alt: 'A historic painting rendered in warm light' },
+  { src: asset('img4.jpg'), alt: 'A classical figure emerging from darkness' },
 ]
 
 const headingClass =
