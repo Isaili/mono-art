@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Gooey Reveal Display";
+  src: url("/gooey-text-reveal/de-fonte-plus.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+.gooey-reveal-display {
+  font-family: "Gooey Reveal Display", Georgia, serif;
+  font-weight: 800;
+}
