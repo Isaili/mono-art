@@ -49,7 +49,7 @@ export function GooeyTextRevealFeature() {
     >
       <div className="pointer-events-none sticky top-0 z-30 h-0">
         <div className="flex items-center justify-between px-5 pt-5 font-mono text-[9px] uppercase tracking-[0.25em] text-white mix-blend-difference sm:px-8">
-          <span>The Weight of Old Light</span>
+          <span>Nudity, Smoke, and Passion: The Sublime Aberration</span>
           <span>Scroll inside</span>
         </div>
       </div>
@@ -62,7 +62,7 @@ export function GooeyTextRevealFeature() {
           className="flex w-full justify-center"
         >
           <h2 className="gooey-reveal-display max-w-3xl text-[clamp(3.25rem,9vw,7rem)] leading-[0.88] tracking-[-0.045em]">
-            The Weight of Old Light
+            Nudity, Smoke, and Passion: The Sublime Aberration
           </h2>
         </GooeyTextReveal>
 
@@ -89,9 +89,10 @@ export function GooeyTextRevealFeature() {
           className="max-w-5xl"
         >
           <h3 className={headingClass}>
-            Before the camera, there was only the patient hand. Pigment ground
-            by candlelight, flesh rendered warm against a dark that swallows
-            everything at the edges of the frame.
+           Tensed muscles in the shadows and bare skin exposed to the judgment
+            of light: the Baroque nude abandons serenity to become pure, unbridled 
+            fury. A silent cry cuts through the composition while an ethereal smoke swirls around the conflict, 
+            catching faces twisted in raw surprise and shock.
           </h3>
         </GooeyTextReveal>
 
@@ -105,9 +106,10 @@ export function GooeyTextRevealFeature() {
           className="ml-auto max-w-5xl"
         >
           <h3 className={headingClass}>
-            This is a room of Spanish shadow: gods caught mid-argument, men
-            caught mid-breath. Each canvas holds a single suspended moment,
-            stretched thin across four centuries, still refusing to look away.
+            At the center, a gaze heavy with profound melancholy 
+            sinks into divine defeat, surrounded by passion exploding
+             in convulsive gestures and fiery drapery. It is the beauty 
+             of chaos—a sublime aberration where flesh, guilt, and mystery burn forever suspended on the canvas.
           </h3>
         </GooeyTextReveal>
       </section>
